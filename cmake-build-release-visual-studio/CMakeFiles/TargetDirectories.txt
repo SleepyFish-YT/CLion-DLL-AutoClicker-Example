@@ -1,0 +1,3 @@
+C:/Users/Luca/Desktop/-/cpp/AutoClicker/cmake-build-release-visual-studio/CMakeFiles/AutoClicker.dir
+C:/Users/Luca/Desktop/-/cpp/AutoClicker/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/Luca/Desktop/-/cpp/AutoClicker/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
