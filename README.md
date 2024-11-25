@@ -31,3 +31,6 @@ shows up. Click on "Release" and make sure the "Toolchain" is selected to "Visua
 To use the auto-clicker program, simply run the executable and hold down the left or right mouse button to start the spamming. To stop the spamming, release the mouse button.
 
 ###### (Did i just really forget dat melody ?)
+
+# Discord Server:
+<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
