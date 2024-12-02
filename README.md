@@ -32,5 +32,7 @@ To use the auto-clicker program, simply run the executable and hold down the lef
 
 ###### (Did i just really forget dat melody ?)
 
-# Discord Server:
+## Discord Server
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
+
+###### Signed by SleepyFish.
